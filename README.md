@@ -1,3 +1,38 @@
+इस इमेज में *कैंडलस्टिक पैटर्न्स* को सरल रूप में समझाया गया है जो ट्रेडिंग (खासकर प्राइस एक्शन ट्रेडिंग) में बहुत काम आते हैं:
+
+🔼 *Bullish Candles (Buyers की ताकत)* – ऊपर की लाइन:
+1. *पूरी हरी बड़ी कैंडल* – "Buyers are in total control" ✔️  
+   मतलब: पूरा ट्रेडिंग सेशन खरीदारों के हाथ में था।
+
+2. *नीचे लंबी wick वाली हरी कैंडल* – "Sellers were active but got rejected" ✔️  
+   नीचे दबाव था, लेकिन Buyers ने उसे हरा दिया।
+
+3. *छोटी बॉडी वाली हरी कैंडल* – "Buyers won but no clear direction" ❌  
+   Direction कन्फर्म नहीं है।
+
+4. *ऊपर लंबी wick वाली हरी कैंडल* – "Too much seller pressure to buy" ❌  
+   Sellers ने ज्यादा दबाव बनाया, risky खरीदारी।
+
+---
+
+🔻 *Bearish Candles (Sellers की ताकत)* – नीचे की लाइन:
+1. *पूरी लाल बड़ी कैंडल* – "Sellers are in total control" ✔️  
+   लगातार बिक्री हुई है।
+
+2. *ऊपर लंबी wick वाली लाल कैंडल* – Rejection by Buyers ❌  
+   बेचने की कोशिश हुई, पर Buyers ने reject किया।
+
+3. *छोटी बॉडी वाली लाल कैंडल* – "Sellers won but direction unclear" ❌  
+   कन्फर्म ट्रेंड नहीं है।
+
+4. *नीचे लंबी wick वाली लाल कैंडल* – "Too much buyer pressure" ❌  
+   Buyers ने नीचे से खींचा, weak selling signal है।
+
+---
+
+*निष्कर्ष:*  
+✔️ वाले पैटर्न मजबूत संकेत देते हैं।  
+❌ वाले पैटर्नों में कन्फ्यूजन या रिवर्सल का खतरा रहता है।
 
 # Hack
 
@@ -41,7 +76,8 @@ Frequently asked questions are answered in our [FAQ](FAQ.md).
 - **Typeface Name**: Hack
 - **Category**: Monospaced
 - **Character set support**: ASCII, Latin-1, Latin Extended A, Greek, Cyrillic
-- **Powerline Support**: Yes, included by default
+- **Powerline Support**: Yes, included by dbbvbv nhh k
+- fault
 - **Included Styles**: Regular, Bold, Italic, Bold Italic
 
 ## Quick installation
@@ -206,8 +242,7 @@ Hack is built with the following free, open source projects:
 
 ## Acknowledgments
 
-We would like to acknowledge and thank the [jsDelivr](https://www.jsdelivr.com/) and [cdnjs](https://cdnjs.com) teams for their support of the Hack project through their free web font CDN services.  We greatly appreciate the tremendous support of open source software development by the [Semaphore CI](https://semaphoreci.com/) team.  Their free CI testing service and rapid, excellent technical support have been tremendous assets for our project. Lastly, a huge thanks go out to all of those who do the unrecognized work to get Hack out there to users so that it is easy to access, install, upgrade, and use.  There are redistribution package managers, review committee members, testers, and others across platforms/distros/applications who perform this thankless work and often go unrecognized.  Your efforts are much appreciated.
-
+We would like to acknowledge and thank the [jsDelivr](https://www.jsdelivr.com/) and [cdnjs](https://cdnjs.com) teams for their support of the Hack project through their free web font CDN services.  We greatly appreciate the tremendous support of open source software development by the [Semaphore CI](https://semaphoreci.com/) team.  Their free CI testing service and rapid, excellent technical support have been tremendous assets for our project. Lastly, a huge thanks go out to all of those who do the unrecognized work to get Hack out there to users so that it is easy to access, install, upgrade, and use.  There are redistribution package managers, review committee members, testers, and others across platforms/distros/applications who perform this thankless work and of
 
 ## License
 
