@@ -173,6 +173,7 @@ If you modify the upstream Hack source or the released font binaries and would l
 Usage details and examples are provided on the fontname.py repository README.
 
 
+
 ## Resources
 * [Full specimen](http://source-foundry.github.io/Hack/font-specimen.html)
 * [Changelog](CHANGELOG.md)
@@ -220,7 +221,7 @@ The font binaries are released under a license that permits unlimited print, des
 See [LICENSE.md](https://github.com/source-foundry/Hack/blob/master/LICENSE.md) for the full texts of the licenses.
 
 
-
+ 
 <!-- Link to the latest release archive for README.md file -->
 
 [ttf_latest]: https://github.com/source-foundry/Hack/releases/download/v3.003/Hack-v3.003-ttf.zip
